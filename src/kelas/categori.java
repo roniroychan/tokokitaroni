@@ -5,7 +5,7 @@
 package kelas;
 
 /**
- *
+ *gjkl
  * @author LENOVO
  */
 public class categori {
